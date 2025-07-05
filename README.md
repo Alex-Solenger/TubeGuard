@@ -81,7 +81,7 @@ Have questions or want to integrate TubeGuard into your product?
 
 ## 🛒 Where to Buy
 
-- 🔗 [Buy on OLX](https://www.olx.ua/d/uk/obyavlenie/tubeguard-neo-soft-start-tube-amplifier-plavnyy-razogrev-IDTC7jD.html?reason=seller_profile) *(if still active)*   
+- 🔗 [Buy on OLX](https://www.olx.ua/d/uk/obyavlenie/tubeguard-neo-soft-start-tube-amplifier-plavnyy-razogrev-IDTC7jD.html) *(if still active)*   
 - 🔗 [Get Gerber files and build your own (coming soon!)*
 
 ---
