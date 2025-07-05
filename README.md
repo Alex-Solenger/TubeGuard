@@ -64,9 +64,10 @@ When the amplifier is powered on:
 ## 🧰 Documentation
 
 - 📄 [PDF Datasheet / One-pager](https://drive.google.com/file/d/1AOC07F2Fkn52j2P3fNtg61ebbzX7vSTC/view)
-- 💡 [Circuit Diagram](./images/general_view.jpg)
+- 💡 [General View](./images/general_view.jpg)
+- 💡 [Controller View](./images/adjuster.jpg)
 - 💡 [Circuit Schematic](./images/Schematic.GIF)
-- 💡 [Circuit Comutator](./images/Comutator.GIF)
+- 💡 [Connecting the switch](./images/Comutator.GIF)
 - 📘 [User Guide](https://drive.google.com/file/d/18n6ji6VZZfq92A9qDqPa3kwrDymVfwSV/view)
 
 ---
