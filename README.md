@@ -64,7 +64,7 @@ When the amplifier is powered on:
 ## 🧰 Documentation
 
 - 📄 [PDF Datasheet / One-pager](https://drive.google.com/file/d/1AOC07F2Fkn52j2P3fNtg61ebbzX7vSTC/view)
-- 💡 [Circuit Diagram](./images/general view.jpg)
+- 💡 [Circuit Diagram](./images/general_view.jpg)
 - 💡 [Circuit Schematic](./images/Schematic.GIF)
 - 📘 [User Guide](https://drive.google.com/file/d/18n6ji6VZZfq92A9qDqPa3kwrDymVfwSV/view)
 
